@@ -31,5 +31,14 @@ It eliminates manual checking and provides a **low-cost, accurate, and scalable*
 
 Install dependencies
 ```bash
-pip install opencv-python gspread oauth2client
+pip install opencv-python gspread oauth2client 
+
+
+Download and place your Google Cloud credentials.json in the same directory.
+
+Create a Google Sheet named Bus_Attendance.
+
+Run the code:
+
+python new_bus.py
 
