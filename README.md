@@ -26,5 +26,5 @@ It eliminates manual checking and provides a **low-cost, accurate, and scalable*
 ### 🖥️ Setup Instructions
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/SmartBusTrack.git
+   git clone https://github.com/seema19551/SmartBusTrack.git
    cd SmartBusTrack
