@@ -28,3 +28,8 @@ It eliminates manual checking and provides a **low-cost, accurate, and scalable*
    ```bash
    git clone https://github.com/seema19551/SmartBusTrack.git
    cd SmartBusTrack
+
+Install dependencies
+```bash
+pip install opencv-python gspread oauth2client
+
